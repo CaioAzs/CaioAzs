@@ -6,4 +6,4 @@
 - São Paulo, Brazil
 - Software Developer - Python, C, JavaScript, Node.js & Mongo.
 
-Endless passion for solving problems through software.
+Endless passion for solving problems through softwares.
