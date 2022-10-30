@@ -2,8 +2,8 @@
 
 ### Hey, I'm Caio de Souza Conceição! 
 
-- Studying Computer Science & React Native Ecosystem.
+- Studying Computer Science & Back-End Development.
 - São Paulo, Brazil
-- Software Developer - JavaScript, Node.js, Mongo, CSS & Python.
+- Software Developer - Python, C, JavaScript, Node.js & Mongo.
 
 Endless passion for solving problems through software.
