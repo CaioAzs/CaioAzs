@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://)](https://www.linkedin.com/in/caio-de-souza-b42bab230/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://)](https://www.linkedin.com/in/caioazs/)
 
 ### Hey, I'm Caio de Souza Conceição! 
 
