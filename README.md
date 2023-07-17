@@ -3,14 +3,12 @@
 <div align="center">
  
 ### Studying Computer Science & Back-End Development.
- 
-### São Paulo, Brazil
+### Endless passion for solving problems through softwares.
  <br>
-
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://)](https://www.linkedin.com/in/caioazs/)
   
-### Endless passion for solving problems through softwares.
+
 
  
 ### Main skills:
@@ -36,4 +34,3 @@
     <img src="https://skillicons.dev/icons?i=angular,ts,aws,mysql" />
   </a>
 </p>
-<img width=80% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
